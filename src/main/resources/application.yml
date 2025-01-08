@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: hibernate
+  datasource:
+    url: ${DATASOURCE_URL:jdbc:mysql://localhost:3306/hibernate}
+    username: ${DATASOURCE_USERNAME:root}
+    password: ${DATASOURCE_PASSWORD:daint123@}
