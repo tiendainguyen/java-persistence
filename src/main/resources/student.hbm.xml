@@ -4,7 +4,7 @@
         "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
 
 <hibernate-mapping>
-    <class name="com.demo.javapersistence.hibernatecore.entity.Student" table="students">
+    <class name="com.demo.javapersistence.entity.Student" table="students">
         <id name="id" column="id">
             <generator class="native"/>
         </id>

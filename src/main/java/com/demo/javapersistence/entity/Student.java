@@ -1,4 +1,4 @@
-package com.demo.javapersistence.hibernatecore.entity;
+package com.demo.javapersistence.entity;
 
 public class Student {
     private Long id;

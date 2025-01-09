@@ -1,4 +1,4 @@
-package com.demo.javapersistence.hibernatecore.until;
+package com.demo.javapersistence.hibernatecore.util;
 
 
 import org.hibernate.SessionFactory;
